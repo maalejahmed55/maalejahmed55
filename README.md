@@ -1,4 +1,8 @@
 ## Hi there 👋
+•	👋 Hi, I’m Ahmed maalej                                                              
+•	🎓 IT engineering student                                                     
+•	🌍 Passionate about technology and self-taught enthusiast                                                                                                        
+•	📫 How to reach me: maalejahmed55@gmail.com
 
 <!--
 **maalejahmed55/maalejahmed55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
