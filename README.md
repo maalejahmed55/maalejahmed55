@@ -1,7 +1,7 @@
 ## Hi there 👋
 •	👋 Hi, I’m Ahmed maalej                                                              
 •	🎓 IT engineering student                                                     
-•	🌍 Passionate about technology and self-taught enthusiast                                                                                                        
+•	🌍 Passionate about technology                                                                                                        
 •	📫 How to reach me: maalejahmed55@gmail.com
 
 <!--
